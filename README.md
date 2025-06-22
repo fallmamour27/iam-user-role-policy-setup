@@ -20,6 +20,4 @@ This project provisions AWS IAM resources using Terraform, including:
 terraform init
 terraform apply
 
-## 🖼️ Diagram
 
-![IAM Terraform Architecture](./S3ReadOnlyPolicy.png)
